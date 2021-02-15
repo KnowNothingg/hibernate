@@ -1,1 +1,1 @@
-This is a test file for branch test
+This is a test file for branch, merged into master branch
